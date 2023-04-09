@@ -21,10 +21,10 @@
 		<div>
 		</div>
 		<div>
-			<input type="text" name="title" placeholder="제목" value="${board.title }"/>
+			<b>변경할 제목 : </b><input type="text" name="title" placeholder="제목" value="${board.title }"/>
 		</div>
 		<div>
-			<input type="text" name="content" value="${board.content }" placeholder="내용">
+			<b> 변경할 내용 : </b><input type="text" name="content" value="${board.content }" placeholder="내용">
 		</div>
 	</form>
 </body>

@@ -5,8 +5,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>BOARD</title>
-<link rel="stylesheet" href="/resource/css/style.css?${millis }">
+<title>체크 페이지</title>
+<link rel="stylesheet" href="/resource/css/style.css">
 </head>
 <body>
 	<form action="/board/check-task">
